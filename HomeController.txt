@@ -5,3 +5,8 @@ Public ActionResult Index() {
 Return View();
 
 }
+Public ActionResult Cart() {
+
+Return View();
+
+}
